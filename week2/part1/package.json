@@ -1,0 +1,14 @@
+{
+  "name": "part1",
+  "version": "1.0.0",
+  "description": "week2 part1",
+  "main": "part1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "okoa kinsey",
+  "license": "ISC",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}

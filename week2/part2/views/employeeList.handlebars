@@ -1,0 +1,16 @@
+<h1>Employees</h1>
+<h3>
+    All Employees
+</h3>
+<ul>
+    {{#each employeeList}}
+    <li>
+       {{this.id}}. {{this.firstName}} {{this.lastName}}
+    </li>
+{{/each}}
+</ul>
+
+<b>Employee of The Month:</b><br>
+{{#each selectedEmployee}}
+        {{this.firstName}} {{this.lastName}}
+{{/each}}

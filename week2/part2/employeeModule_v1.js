@@ -1,10 +1,10 @@
 
 
 var data = [
-  {id:1, firstName:'richard', lastName:'cotton'},
-  {id:2, firstName:'richard', lastName:'twena'},
-  {id:3, firstName:'bobby', lastName:'lewis'},
-  {id:4, firstName:'carlos', lastName:'espiranza'}
+  {id:1, firstName:"richard", lastName:"cotton"},
+  {id:2, firstName:"richard", lastName:"twena"},
+  {id:3, firstName:"bobby", lastName:"lewis"},
+  {id:4, firstName:"carlos", lastName:"espiranza"}
 ];
 
 module.exports = {
